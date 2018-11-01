@@ -1,2 +1,2 @@
-# codechef
-Solutions for code chef practice Questions.
+# codechef_hackerrank
+Solutions for code chef and hackerrank practice Questions.
